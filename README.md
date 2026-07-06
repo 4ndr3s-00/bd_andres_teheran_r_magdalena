@@ -42,5 +42,3 @@ Screen recordings and demonstrations for this project can be found at:
 ```
 /home/cohorte5/Vídeos/Grabaciones de la pantalla
 ```
-
-This directory contains video tutorials and walkthroughs related to the database design and implementation.
