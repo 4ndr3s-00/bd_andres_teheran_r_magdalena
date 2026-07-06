@@ -33,3 +33,14 @@ This repository contains the database design and documentation for the Magdalena
 - **Repository URL:** https://github.com/4ndr3s-00/bd_andres_teheran_magdalena
 - **Clone command:** `git clone https://github.com/4ndr3s-00/bd_andres_teheran_r_magdalena.git`
 
+---
+
+## 🎥 Screen Recordings
+
+Screen recordings and demonstrations for this project can be found at:
+
+```
+/home/cohorte5/Vídeos/Grabaciones de la pantalla
+```
+
+This directory contains video tutorials and walkthroughs related to the database design and implementation.
